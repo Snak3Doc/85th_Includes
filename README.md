@@ -2,5 +2,5 @@
 ![alt text](https://i.imgur.com/kL5FY7W.jpeg)
 ## Description
 - Custom Compositions
-- Player Units
+- Player Units & Role Scripts
 - Mission Includes (scripts, images ect)
