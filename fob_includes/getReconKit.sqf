@@ -19,7 +19,19 @@ player addItemToUniform "ACE_microDAGR";
 player addItemToUniform "ACE_MapTools";
 player addItemToUniform "ACE_Flashlight_XL50";
 player addItem "ACE_EarPlugs";
+player addItem "ItemAndroid";
+player addItem "ACE_HuntIR_monitor";
 player addItem "ACE_EntrenchingTool";
+player addItemToBackpack "ACE_UAVBattery";
+player addItemToBackpack "ACE_Tripod";
 player addItemToBackpack "ACE_WaterBottle";
+player addItemToBackpack "DRNP_AR2_battery";
+player addItemToBackpack "DRNP_AR2P";
+
+player linkItem "B_UavTerminal";
+
+player removeWeapon "ACE_Vector";
+player addWeapon "UK3CB_BAF_Soflam_Laserdesignator";
+player addBinocularItem "Laserbatteries";
 
 hint "Specialist kit added";
